@@ -1,0 +1,25 @@
+Script started on 2015年03月10日 (週二) 15時40分49秒
+]0;C14001028@2015cpp: ~/lab1C14001028@2015cpp:~/lab1$ wohami[K[K[K[K[Khoami; pwd
+C14001028
+/home/C14001028/lab1
+]0;C14001028@2015cpp: ~/lab1C14001028@2015cpp:~/lab1$ git config -l
+user.name=C14001028
+user.mail=C14001028@mail.ncku.edu.tw
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/C14001028/lab.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+]0;C14001028@2015cpp: ~/lab1C14001028@2015cpp:~/lab1$ git clone https://github.com/C14001028/lab1.git
+Cloning into 'lab1'...
+Username for 'https://github.com': C14001028
+Password for 'https://C14001028@github.com': 
+error: The requested URL returned error: 403 while accessing https://github.com/C14001028/lab1.git/info/refs
+fatal: HTTP request failed
+]0;C14001028@2015cpp: ~/lab1C14001028@2015cpp:~/lab1$ git clone https://github.com/C14001028/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;C14001028@2015cpp: ~/lab1C14001028@2015cpp:~/lab1$ f[Kf[Kexit
+
+Script done on 2015年03月10日 (週二) 16時07分41秒
